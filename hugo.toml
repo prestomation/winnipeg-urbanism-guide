@@ -1,0 +1,20 @@
+baseURL = 'https://winnipeg.urbanism-guide.com/'
+title = 'Winnipeg Urbanism Guide'
+theme = "hugo-book"
+
+enableGitInfo = true
+enableEmoji = false
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSearch = true
+  BookRepo = "https://github.com/prestomation/winnipeg-urbanism-guide"
+  BookEditPath = "edit/main"
+  BookDateFormat = "January 2, 2006"
+  BookSection = "/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
