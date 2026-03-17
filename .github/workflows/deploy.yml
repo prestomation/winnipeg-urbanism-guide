@@ -70,7 +70,7 @@ jobs:
             PREVIEWS=$(ls -d pr-* 2>/dev/null || true)
 
             # Clear current content
-            git rm -rf . --quiet
+            git rm -rf . --quiet || true
 
             # Restore PR previews if any
             if [ -n "$PREVIEWS" ]; then
@@ -78,7 +78,7 @@ jobs:
             fi
           else
             git checkout --orphan gh-pages
-            git rm -rf . --quiet
+            git rm -rf . --quiet || true
           fi
 
           # Copy built site
