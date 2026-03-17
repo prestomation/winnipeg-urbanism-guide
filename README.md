@@ -20,9 +20,11 @@ This site is built with [Hugo](https://gohugo.io/) (extended version 0.147.0 or 
 ### Local Development
 
 ```bash
-# Clone with submodules
-git clone --recurse-submodules https://github.com/prestomation/winnipeg-urbanism-guide.git
+git clone https://github.com/prestomation/winnipeg-urbanism-guide.git
 cd winnipeg-urbanism-guide
+
+# Install the theme
+git clone --depth 1 https://github.com/alex-shpak/hugo-book themes/hugo-book
 
 # Start local server (with drafts)
 hugo server -D

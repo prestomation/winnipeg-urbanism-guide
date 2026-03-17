@@ -11,7 +11,7 @@ Help Winnipeg residents understand urbanism terminology, the city's planning fra
 - **Static site generator:** Hugo 0.147.0 (extended) with the hugo-book theme
 - **Deployment:** GitHub Actions → gh-pages branch
 - **Search:** Pagefind (runs post-build)
-- **Theme:** `themes/hugo-book` (git submodule — read-only; override via `layouts/` or `static/`)
+- **Theme:** `themes/hugo-book` (cloned separately — read-only; override via `layouts/` or `static/`)
 
 ## Content Organization
 
