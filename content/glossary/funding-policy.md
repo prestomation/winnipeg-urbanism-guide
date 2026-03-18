@@ -28,7 +28,7 @@ A federal program administered by the Canada Mortgage and Housing Corporation (C
 
 **Why it matters:** Winnipeg's [2025 city-wide infill housing zoning amendments](https://www.winnipeg.ca/building-development/housing/housing-accelerator-fund/infill-housing) were directly tied to HAF commitments. Mayor Scott Gillingham championed the HAF application, with the City receiving funding in exchange for allowing fourplexes as-of-right city-wide. The HAF also funded permit-fee rebates and affordable-unit grants for qualifying projects.
 
-**Learn more:** [City of Winnipeg — Housing Accelerator Fund](https://www.winnipeg.ca/building-development/housing/housing-accelerator-fund) | [CMHC Housing Accelerator Fund](https://www.cmhc-schl.gc.ca/en/blog/2023/housing-accelerator-fund)
+**Learn more:** [City of Winnipeg — Housing Accelerator Fund](https://www.winnipeg.ca/building-development/housing/housing-accelerator-fund) | [CMHC Housing Accelerator Fund](https://www.cmhc-schl.gc.ca/en/professionals/project-funding-and-mortgage-insurance/funding/housing-accelerator-fund)
 
 ### Portage Place Redevelopment
 
