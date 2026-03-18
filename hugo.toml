@@ -1,20 +1,12 @@
-baseURL = 'https://winnipeg.urbanism-guide.com/'
-title = 'Winnipeg Urbanism Guide'
-theme = "hugo-book"
+baseURL = "https://winnipeg.urbanism-guide.com/"
+title = "Winnipeg Urbanism Guide"
 
-enableGitInfo = true
-enableEmoji = false
+[module]
+[[module.imports]]
+path = "github.com/prestomation/urbanism-guide-core"
 
 [params]
-  BookTheme = 'auto'
-  BookToC = true
-  BookSearch = true
+  description = "A practical guide for Winnipeg urbanists and advocates. Understand the issues, learn the terms, and show up ready to contribute."
+  goatCounterCode = "winnipeg-urbanism-guide"
   BookRepo = "https://github.com/prestomation/winnipeg-urbanism-guide"
-  BookEditPath = "edit/main"
-  BookDateFormat = "January 2, 2006"
-  BookSection = "/"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  BookEditPath = "edit/main/content"
