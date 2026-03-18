@@ -1,0 +1,25 @@
+/* ==========================================================================
+   Winnipeg Urbanism Guide — Brand Colors
+   Winnipeg-inspired palette: Red River, prairie sky, exchange district brick
+   Prairie Blue #1A5276 | River Teal #1ABC9C | Wheat Gold #D4AC0D
+   ========================================================================== */
+
+:root {
+  --color-link: #1A5276;
+  --accent-teal: #1ABC9C;
+  --accent-emerald: #27AE60;
+  --accent-gold: #D4AC0D;
+  --accent-light-blue: #5DADE2;
+  --accent-gradient: linear-gradient(135deg, #1A5276, #1ABC9C);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-link: #5DADE2;
+    --accent-teal: #48C9B0;
+    --accent-emerald: #58D68D;
+    --accent-gold: #F4D03F;
+    --accent-light-blue: #85C1E9;
+    --accent-gradient: linear-gradient(135deg, #5DADE2, #48C9B0);
+  }
+}
