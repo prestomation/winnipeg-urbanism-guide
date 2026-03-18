@@ -1,5 +1,10 @@
 DirectoryPath: "public"
+CheckInternal: true
+CheckInternalHash: true
+CheckExternal: false
 IgnoreURLs:
-  - "^http://localhost"
-  - "^https://localhost"
-CheckExternal: true
+  - "^mailto:"
+  - "^/pr-preview/"
+IgnoreDirs:
+  - "pr-preview"
+OutputDir: ".htmltest"
