@@ -36,7 +36,7 @@ A designation protecting buildings or areas of historical, architectural, or cul
 
 **Why it matters:** Winnipeg's [Exchange District](https://www.winnipeg.ca/planning-property/heritage/exchange-district) is a National Historic Site of Canada with approximately 150 heritage buildings. Heritage designations can prevent demolition and require consultation on exterior alterations. Character overlays in older neighbourhoods may also limit infill building heights or setbacks.
 
-**See also:** [Exchange District](#exchange-district-national-historic-site)
+**See also:** [Exchange District](/glossary/land-use/#exchange-district-national-historic-site)
 
 **Learn more:** [City of Winnipeg Heritage](https://www.winnipeg.ca/planning-property/heritage) | [Manitoba Historic Resources Branch](https://www.gov.mb.ca/chc/hrb/index.html)
 
