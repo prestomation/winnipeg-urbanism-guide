@@ -33,7 +33,7 @@ Public data resources for understanding Winnipeg's urban development, planning, 
 
 - **[Statistics Canada — Winnipeg Census Profile](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E)** — Population, housing, and income data from the 2021 Census
 - **[Canada Mortgage and Housing Corporation (CMHC)](https://www.cmhc-schl.gc.ca/)** — National housing market data and rental market reports
-- **[Manitoba Land Initiative (MLI)](https://mli2.gov.mb.ca/)** — Provincial mapping and land registry data
+- **[Manitoba Land Initiative (MLI)](https://www.gov.mb.ca/ia/programs/mli2.html)** — Provincial mapping and land registry data
 - **[Manitoba Government — Historic Resources Branch](https://www.gov.mb.ca/chc/hrb/index.html)** — Heritage building designations and historical resources
 
 ## Community and Advocacy

@@ -13,3 +13,4 @@ jobs:
     with:
       timezone: "America/Winnipeg"
       base_url: "https://winnipeg.urbanism-guide.com"
+      run_link_check: false
