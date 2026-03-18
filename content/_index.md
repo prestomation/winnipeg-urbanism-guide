@@ -14,26 +14,42 @@ This guide exists to help residents, advocates, and newcomers understand the lan
 
 ---
 
-## What's Inside
-
 {{< columns >}}
-**[Quick Start]({{< relref "quick-start" >}})**
+
+## [Quick Start]({{< relref "/quick-start" >}})
+
 Government structure, planning framework, and how to get involved in Winnipeg city decisions.
 
-**[Glossary]({{< relref "glossary" >}})**
+<--->
+
+## [Glossary]({{< relref "/glossary" >}})
+
 Plain-language definitions for urban planning terms that come up in Council chambers, Planning Commission hearings, and community meetings.
 
-**[Guides]({{< relref "guides" >}})**
+<--->
+
+## [Guides]({{< relref "/guides" >}})
+
 In-depth coverage of Winnipeg's walkability, transit, housing, and cycling infrastructure.
+
 {{< /columns >}}
 
 {{< columns >}}
-**[Timeline]({{< relref "timeline" >}})**
+
+## [Timeline]({{< relref "/timeline" >}})
+
 Key events in Winnipeg's urban development — from the first streetcar line to the 2025 infill zoning reforms.
 
-**[Data]({{< relref "data" >}})**
+<--->
+
+## [Data]({{< relref "/data" >}})
+
 Public data sources for Winnipeg planning, zoning, transit, and housing.
 
-**[Blog]({{< relref "blog" >}})**
+<--->
+
+## [Blog]({{< relref "/blog" >}})
+
 Analysis and commentary on urbanism topics in Winnipeg and across the Prairies.
+
 {{< /columns >}}
